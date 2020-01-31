@@ -1,0 +1,11 @@
+﻿<Root>
+	<Description>This will change:
+A single button press. This will 
+also create a static background 
+color.  \̅_̅/̷̚ʾ  CHEERS
+</Description>
+	<ButtonType>0</ButtonType>
+	<ButtonDownColor>000000,000000,000000,000000,000000,000000</ButtonDownColor>
+	<ButtonUpColor>3A0B16</ButtonUpColor>
+	<Speed>6</Speed>
+</Root>
